@@ -1,0 +1,18 @@
+/*LOAN*/
+.message-danger{
+    display:none;
+}
+.message-danger.active{
+    display:block;
+}
+
+
+
+.box-footer{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+i.fa.fa-exclamation-circle {
+    color: #f39c12;
+}
